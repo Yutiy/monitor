@@ -1,0 +1,28 @@
+{
+  "name": "@bdw/monitor-web-performance",
+  "version": "0.0.1",
+  "description": "A SDK For Report Web Performance",
+  "author": "yutiy",
+  "license": "MIT",
+  "main": "dist/web-performance.js",
+  "module": "dist/web-performance.esm.js",
+  "types": "dist/web-performance.d.ts",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/yutiy/monitor/blob/master/packages/web-performance/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutiy/monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yutiy/monitor/issues"
+  },
+  "keywords": [
+    "sdk",
+    "monitor"
+  ],
+  "dependencies": {
+    "core-js": "^3.19.1"
+  }
+}

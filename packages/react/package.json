@@ -1,0 +1,30 @@
+{
+  "name": "@bdw/monitor-react",
+  "version": "0.0.1",
+  "description": "A SDK For Monitoring React Errors",
+  "author": "yutiy",
+  "license": "MIT",
+  "main": "dist/react.js",
+  "module": "dist/react.esm.js",
+  "types": "dist/react.d.ts",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/yutiy/monitor/blob/master/packages/react/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutiy/monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yutiy/monitor/issues"
+  },
+  "keywords": [
+    "sdk",
+    "monitor"
+  ],
+  "dependencies": {
+    "@bdw/monitor-core": "0.0.1",
+    "@bdw/monitor-utils": "0.0.1",
+    "@bdw/monitor-shared": "0.0.1"
+  }
+}

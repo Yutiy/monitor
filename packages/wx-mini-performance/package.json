@@ -1,0 +1,28 @@
+{
+  "name": "@bdw/monitor-wx-mini-performance",
+  "version": "0.0.1",
+  "description": "A SDK For Report Wx Mini Performance",
+  "author": "yutiy",
+  "license": "MIT",
+  "main": "dist/wx-mini-performance.js",
+  "module": "dist/wx-mini-performance.esm.js",
+  "types": "dist/wx-mini-performance.d.ts",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/yutiy/monitor/blob/master/packages/wx-mini-performance/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutiy/monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yutiy/monitor/issues"
+  },
+  "keywords": [
+    "sdk",
+    "monitor"
+  ],
+  "dependencies": {
+    "@types/wechat-miniprogram": "^3.3.0"
+  }
+}

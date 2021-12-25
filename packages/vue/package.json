@@ -1,0 +1,30 @@
+{
+  "name": "@bdw/monitor-vue",
+  "version": "0.0.1",
+  "description": "A SDK For Monitoring Vue Errors",
+  "author": "yutiy",
+  "license": "MIT",
+  "main": "dist/vue.js",
+  "module": "dist/vue.esm.js",
+  "types": "dist/vue.d.ts",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/yutiy/monitor/blob/master/packages/vue/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutiy/monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yutiy/monitor/issues"
+  },
+  "keywords": [
+    "sdk",
+    "monitor"
+  ],
+  "dependencies": {
+    "@bdw/monitor-utils": "0.0.1",
+    "@bdw/monitor-shared": "0.0.1",
+    "@bdw/monitor-types": "0.0.1"
+  }
+}

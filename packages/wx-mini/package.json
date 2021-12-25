@@ -1,0 +1,32 @@
+{
+  "name": "@bdw/monitor-wx-mini",
+  "version": "0.0.1",
+  "description": "A SDK For Monitoring wx-mini Errors",
+  "author": "yutiy",
+  "license": "MIT",
+  "main": "dist/wx-mini.js",
+  "module": "dist/wx-mini.esm.js",
+  "types": "dist/wx-mini.d.ts",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/yutiy/monitor/blob/master/packages/wx-mini/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutiy/monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yutiy/monitor/issues"
+  },
+  "keywords": [
+    "sdk",
+    "monitor"
+  ],
+  "dependencies": {
+    "@bdw/monitor-core": "0.0.1",
+    "@bdw/monitor-utils": "0.0.1",
+    "@bdw/monitor-shared": "0.0.1",
+    "@bdw/monitor-types": "0.0.1",
+    "@types/wechat-miniprogram": "^3.1.0"
+  }
+}

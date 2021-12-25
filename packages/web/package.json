@@ -1,0 +1,30 @@
+{
+  "name": "@bdw/monitor-web",
+  "version": "0.0.1",
+  "description": "A SDK For Monitoring Web(React、Vue) Errors",
+  "author": "yutiy",
+  "license": "MIT",
+  "main": "dist/web.js",
+  "module": "dist/web.esm.js",
+  "types": "dist/web.d.ts",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/yutiy/monitor/blob/master/packages/react/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutiy/monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yutiy/monitor/issues"
+  },
+  "keywords": [
+    "sdk",
+    "monitor"
+  ],
+  "dependencies": {
+    "@bdw/monitor-browser": "0.0.1",
+    "@bdw/monitor-react": "0.0.1",
+    "@bdw/monitor-vue": "0.0.1"
+  }
+}

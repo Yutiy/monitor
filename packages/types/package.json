@@ -1,0 +1,29 @@
+{
+  "name": "@bdw/monitor-types",
+  "version": "0.0.1",
+  "description": "@bdw/monitor-types",
+  "author": "yutiy",
+  "license": "MIT",
+  "main": "dist/types.js",
+  "module": "dist/types.esm.js",
+  "types": "dist/types.d.ts",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/yutiy/monitor/blob/master/packages/types/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutiy/monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yutiy/monitor/issues"
+  },
+  "keywords": [
+    "sdk",
+    "monitor"
+  ],
+  "dependencies": {
+    "@bdw/monitor-utils": "0.0.1",
+    "@bdw/monitor-shared": "0.0.1"
+  }
+}

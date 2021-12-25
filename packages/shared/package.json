@@ -1,0 +1,25 @@
+{
+  "name": "@bdw/monitor-shared",
+  "version": "0.0.1",
+  "description": "@bdw/monitor-shared",
+  "author": "yutiy",
+  "license": "MIT",
+  "main": "dist/shared.js",
+  "module": "dist/shared.esm.js",
+  "types": "dist/shared.d.ts",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/yutiy/monitor/blob/master/packages/shared/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutiy/monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yutiy/monitor/issues"
+  },
+  "keywords": [
+    "sdk",
+    "monitor"
+  ]
+}

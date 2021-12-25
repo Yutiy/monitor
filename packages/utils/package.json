@@ -1,0 +1,29 @@
+{
+  "name": "@bdw/monitor-utils",
+  "version": "0.0.1",
+  "description": "@bdw/monitor-utils",
+  "author": "yutiy",
+  "license": "MIT",
+  "main": "dist/utils.js",
+  "module": "dist/utils.esm.js",
+  "types": "dist/utils.d.ts",
+  "files": [
+    "dist"
+  ],
+  "homepage": "https://github.com/yutiy/monitor/blob/master/packages/utils/README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yutiy/monitor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yutiy/monitor/issues"
+  },
+  "keywords": [
+    "sdk",
+    "monitor"
+  ],
+  "dependencies": {
+    "@bdw/monitor-shared": "0.0.1",
+    "@bdw/monitor-types": "0.0.1"
+  }
+}
