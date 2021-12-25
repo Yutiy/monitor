@@ -13,7 +13,7 @@ npm install @bdw/monitor-react @bdw/monitor-browser
 yarn add @bdw/monitor-react @bdw/monitor-browser
 ```
 
-read the [mito-doc](https://mitojs.github.io/mito-doc/#/sdk/guide/introduction) to konw more info
+read the [mito-doc](https://www.baidu.com) to konw more info
 
 ## 🥳 Usage
 
@@ -59,7 +59,7 @@ const APP: React.FC = () => {
 
 **OtherComponent.tsx**
 
-`ErrorBoundary` component  will automatically send react error if you set the correct [dsn](https://github.com/mitojs/mitojs/blob/master/docs/option.md).
+`ErrorBoundary` component  will automatically send react error if you set the correct dsn
 
 ```tsx
 import { ErrorBoundary } from '@bdw/monitor-react'

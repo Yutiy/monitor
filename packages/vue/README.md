@@ -13,7 +13,7 @@ npm i @bdw/monitor-vue @bdw/monitor-browser
 yarn add @bdw/monitorvue @bdw/monitor-browser
 ```
 
-read the [mito-doc](https://mitojs.github.io/mito-doc/#/sdk/guide/introduction) to konw more info
+read the [mito-doc](https://www.baidu.com) to konw more info
 
 ## 🥳 Usage
 

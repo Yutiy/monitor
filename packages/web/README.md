@@ -1,30 +1,28 @@
-# @mitojs/web
+# @bdw/monitor-web
+
 The following three packages are integrated
-* [@mito/browser](https://github.com/mitojs/mitojs/tree/master/packages/browser)
-* [@mito/react](https://github.com/mitojs/mitojs/tree/master/packages/react)
-* [@mito/vue](https://github.com/mitojs/mitojs/tree/master/packages/vue)
-
-
+* [@bdw/monitor-browser](https://www.baidu.com)
+* [@bdw/monitor-react](https://www.baidu.com)
+* [@@bdw/monitor-vue](https://www.baidu.com)
 ## Install
+
 ```bash
 # using npm
-npm i @mitojs/web
+npm i @bdw/monitor-web
 # using yarn
-yarn add @mitojs/web
+yarn add @bdw/monitor-web
 ```
 
-read the [mito-doc](https://mitojs.github.io/mito-doc/#/sdk/guide/introduction) to konw more info
-
-
+read the [mito-doc](https://www.baidu.com) to konw more info
 
 ## Usage
+
 ```js
-import { init,MitoProvider,ErrorBoundary,vuePlugin } from '@mitojs/web'
+import { init,MitoProvider,ErrorBoundary,vuePlugin } from '@bdw/monitor-web'
 ```
+
 **go to **
 
-* [@mito/browser usage manual](https://github.com/mitojs/mitojs/tree/master/packages/browser)
-* [@mito/react usage manual](https://github.com/mitojs/mitojs/tree/master/packages/react)
-* [@mito/vue usage manual](https://github.com/mitojs/mitojs/tree/master/packages/vue)
-
-
+* [@bdw/monitor-browser usage manual](https://www.baidu.com)
+* [@bdw/monitor-react usage manual](https://www.baidu.com)
+* [@bdw/monitor-vue usage manual](https://www.baidu.com)
